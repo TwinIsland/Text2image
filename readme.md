@@ -11,7 +11,7 @@ pip install opencv-python
 
 **Using GUI:**
 
-Just run the `t2i_GUI.py` by using `python -w t2i_GUI.py`. And following the step
+Just run the `t2i_GUI.py` by using `pythonw t2i_GUI.py`. And following the step
 
 **Using core:**
 
